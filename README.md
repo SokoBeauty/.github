@@ -1,5 +1,3 @@
----
-
 # Soko-Beauty 💄✨
 **Everything Beauty**
 
